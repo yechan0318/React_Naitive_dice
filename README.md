@@ -1,1 +1,1 @@
-# React_Naitive_dice
+# React_Naitive를 공부하기 위해 랜덤하게 주사위를 굴리는 앱을 만들었습니다. Udemy아카데미를 보면서 공부했습니다.
